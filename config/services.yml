@@ -1,0 +1,10 @@
+services:
+    koutogima.allowusertodelete.listener:
+        class: koutogima\allowusertodelete\event\listener
+        arguments:
+            - @user
+            - @auth
+            - @config
+            - @content.visibility
+        tags:
+            - { name: event.listener }
