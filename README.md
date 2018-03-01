@@ -4,6 +4,8 @@ I once put all of my phpBB extensions into one GitHub respository when I was a G
 
 # What is this?
 
+A phpBB extension allows normal user to delete their posts after a reply is made in that topic.
+
 I develop this extension based on phpbb 3.1.9 version referencing [this post](https://www.phpbb.com/community/viewtopic.php?p=13248088&sid=a82db79f6f5332dcf3ceafd5005024e3#p13248088) by ronjan (that's why I listed him / her as the first author, I hope he / she does not mind about this). Please note that if you follow the guide by ronjan solely on phpbb 3.1.9, you may not get what you expect and that is also the reason why I develop this extension.
 
 # Before activating the extension
